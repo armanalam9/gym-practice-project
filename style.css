@@ -135,3 +135,18 @@
     text-decoration: none;
     color: white;
 }
+
+.workout-container {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 600px;
+    height: 250px;
+    background-image: url(./images/shape/Group_33094_1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 60px;
+}
