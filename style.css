@@ -150,3 +150,28 @@
     margin: 0 auto;
     margin-top: 60px;
 }
+
+.service1 {
+    width: 550px;
+    height: 600px;
+    border: 1px solid gray;
+}
+
+.service-img {
+    width: 100%;
+}
+
+.service-bottom {
+    display: flex;
+}
+
+.batch-img {
+    top: -30px;
+    left: 320px;
+    width: 50px;
+    position: absolute;
+}
+
+.batch {
+    position: relative;
+}
